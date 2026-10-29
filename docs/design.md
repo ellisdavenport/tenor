@@ -1,4 +1,4 @@
-# Design document: hybrid English formality classifier
+# tenor: design document
 
 Status: draft, written before any code. Figures in [brackets] are placeholders to be filled from the data before the split is frozen. Everything else is fixed; changes after this point are logged in the changelog at the bottom.
 
